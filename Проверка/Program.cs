@@ -79,7 +79,7 @@ namespace Laba3
             worker1.Print1();
             Worker worker2 = new Worker("Петрович", (int)Vuz3);
             worker2.Print1();
-            Console.WriteLine("КАИ-0, КХТИ-1 ,КГУ-2");
+            Console.WriteLine("КАИ-0, КХТИ-1 ,КГУ-3");
             Console.ReadKey();
         }
     }
